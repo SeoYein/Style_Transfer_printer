@@ -1,9 +1,9 @@
 # Style_Transfer_printer
  style transfer 프린터 조작 기능 추가 
 
-Exco 전시 
 
-< 환경 및 실행 방법 >
+환경 및 실행 방법 
+---
 - 가상환경 : artgan
 - 실행파일 cam.py
  - 절대경로 입력 말고 cd Desktop/EXCO_CAM 으로 이동해서 python cam.py를 실행해야 오류가 나지 않음 
@@ -11,7 +11,8 @@ Exco 전시
 - 실행 시 느려질 경우 존재 : esc키로 창 닫고 다시 실행
 - x버튼을 누를 경우 닫히지 않으니 esc로 닫아야 함 
 
-< 기능 > 
+기능
+----
 1. stop ('s'키 누를 시 실행) 
 : 화면 일시정지 기능
 : 's'를 한 번 더 누를 경우 일시정지 상태가 풀리고 다시 영상 화면으로 돌아옴 
