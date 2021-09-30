@@ -2,9 +2,8 @@
  style transfer 프린터 조작 기능 추가 
 
 
-환경 및 실행 방법 
+실행 방법 
 ---
-- 가상환경 : artgan
 - 실행파일 cam.py
  - 절대경로 입력 말고 cd Desktop/EXCO_CAM 으로 이동해서 python cam.py를 실행해야 오류가 나지 않음 
 - 마우스가 아닌 키보드로만 작동
